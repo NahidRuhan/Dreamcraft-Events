@@ -1,0 +1,453 @@
+[
+    {
+      "id": 1,
+
+        "name": "Concerts and Music Festivals",
+        "image": "https://i.ibb.co/MC0ny0q/slider1.jpg",
+        "price": "$7500",
+        "description": "Experience the magic of live music through our expertly organized concerts and music festivals, where melodies come alive and create unforgettable moments.",
+
+          "serviceName": "Concerts and Music Festivals",
+          "detailDescription": "Experience the magic of live music at our world-class concerts and music festivals. Whether you're a fan of rock, pop, classical, or electronic music, we've got the perfect event for you.",
+          "imageGallery": [
+            "image1.jpg",
+            "image2.jpg",
+            "image3.jpg"
+          ],
+          "pricing": {
+            "packages": [
+              {
+                "name": "VIP Package",
+                "price": "$500",
+                "description": "Access to exclusive VIP area, front-row seats, and premium amenities."
+              },
+              {
+                "name": "General Admission",
+                "price": "$50",
+                "description": "General access to the event, standing or seated based on availability."
+              }
+            ],
+            "additionalFees": "Service fees may apply."
+          },
+          "keyFeatures": [
+            "Top-notch sound and lighting equipment",
+            "Variety of music genres",
+            "Outdoor and indoor venues"
+          ],
+          "testimonials": [
+            {
+              "name": "John Smith",
+              "comment": "The concert experience was amazing. I can't wait for the next one!"
+            },
+            {
+              "name": "Emily Davis",
+              "comment": "Our music festival was a huge success, thanks to the team!"
+            }
+          ],
+          "availability": "Year-round",
+          "benefits": "Enhance your event with the energy and excitement of live music. We handle all the logistics, so you can enjoy the show.",
+          "bookingInformation": {
+            "contactName": "Alice Johnson",
+            "email": "alice@example.com",
+            "phone": "+1 (123) 456-7890"
+          },
+          "faq": [
+            {
+              "question": "Can I bring my own food and drinks?",
+              "answer": "Outside food and beverages are not allowed in the venue."
+            },
+            {
+              "question": "Is there parking available?",
+              "answer": "Yes, parking facilities are available on-site."
+            }
+          ],
+          "relatedServices": ["Food and Beverage Catering", "Event Security Services"],
+          "contactInformation": {
+            "companyName": "Event Producers, Inc.",
+            "address": "123 Main Street, Cityville, USA",
+            "email": "info@example.com",
+            "phone": "+1 (987) 654-3210"
+          },
+          "socialMediaLinks": {
+            "facebook": "https://www.facebook.com/eventproducers",
+            "twitter": "https://twitter.com/eventproducers",
+            "instagram": "https://www.instagram.com/eventproducers"
+          },
+          "callToAction": "Ready to rock out? Contact us now to book your tickets!"
+    },
+    {
+      "id": 2,
+
+        "name": "Theater and Performing Arts",
+        "image": "https://i.ibb.co/FDjBhJT/slider2.jpg",
+        "price": "$6000",
+        "description": "Dive into the world of theater and artistry with our captivating performances, where stories unfold on stage, evoking emotions and sparking creativity.",
+
+          "serviceName": "Theater and Performing Arts",
+          "detailDescription": "Experience the magic of live theater and captivating performances. From classic plays to modern dramas, we bring the stage to life.",
+          "imageGallery": [
+            "image1.jpg",
+            "image2.jpg",
+            "image3.jpg"
+          ],
+          "pricing": {
+            "packages": [
+              {
+                "name": "Premium Seating",
+                "price": "$100",
+                "description": "Enjoy the best view in the house with premium seating."
+              },
+              {
+                "name": "Standard Admission",
+                "price": "$50",
+                "description": "Standard admission for a memorable theatrical experience."
+              }
+            ],
+            "additionalFees": "Ticket processing fees may apply."
+          },
+          "keyFeatures": [
+            "Acclaimed actors and directors",
+            "Diverse range of productions",
+            "Historic and modern theaters"
+          ],
+          "testimonials": [
+            {
+              "name": "Sarah Johnson",
+              "comment": "The performance was a work of art. Truly exceptional!"
+            },
+            {
+              "name": "David Wilson",
+              "comment": "We had a fantastic time at the theater. A must-see!"
+            }
+          ],
+          "availability": "Year-round",
+          "benefits": "Immerse yourself in the world of drama, comedy, and storytelling. Let us take you on a journey through the arts.",
+          "bookingInformation": {
+            "contactName": "Emma Roberts",
+            "email": "emma@example.com",
+            "phone": "+1 (234) 567-8901"
+          },
+          "faq": [
+            {
+              "question": "Is there an age restriction?",
+              "answer": "Some performances may have age restrictions, so check the event details."
+            },
+            {
+              "question": "Are group discounts available?",
+              "answer": "Yes, we offer group discounts for parties of 10 or more."
+            }
+          ],
+          "relatedServices": ["Event Venue Rentals", "Event Catering Services"],
+          "contactInformation": {
+            "companyName": "Artistic Productions, LLC",
+            "address": "456 Theater Lane, Dramaville, USA",
+            "email": "info@artisticproductions.com",
+            "phone": "+1 (555) 123-4567"
+          },
+          "socialMediaLinks": {
+            "facebook": "https://www.facebook.com/artisticproductions",
+            "twitter": "https://twitter.com/artisticpros",
+            "instagram": "https://www.instagram.com/artisticproductions"
+          },
+          "callToAction": "Ready for a theatrical adventure? Book your tickets now!"
+    },
+    {
+      "id": 3,
+      "name": "Film Screenings and Premieres",
+      "image": "https://i.ibb.co/ZzCqF7P/slider3.jpg",
+      "price": "$5000",
+      "description": "Step onto the red carpet with our film screenings and premieres, where the magic of cinema enchants and where movie moments turn into memories.",
+        "serviceName": "Film Screenings and Premieres",
+        "detailDescription": "Step onto the red carpet and be part of the movie magic. Explore the latest blockbusters and independent films with us.",
+        "imageGallery": [
+          "image1.jpg",
+          "image2.jpg",
+          "image3.jpg"
+        ],
+        "pricing": {
+          "packages": [
+            {
+              "name": "VIP Premiere",
+              "price": "$75",
+              "description": "Experience film premieres with exclusive VIP access."
+            },
+            {
+              "name": "General Screening",
+              "price": "$15",
+              "description": "Enjoy regular screenings of the latest films."
+            }
+          ],
+          "additionalFees": "Booking fees may apply."
+        },
+        "keyFeatures": [
+          "Red carpet events",
+          "Diverse film selection",
+          "Q&A sessions with filmmakers"
+        ],
+        "testimonials": [
+          {
+            "name": "Sophie Adams",
+            "comment": "Attending the premiere was a dream come true. Incredible experience!"
+          },
+          {
+            "name": "Michael Harris",
+            "comment": "We love the film screenings. Always a fantastic night out!"
+          }
+        ],
+        "availability": "Throughout the year",
+        "benefits": "Get an exclusive glimpse of upcoming films and be part of the film industry's glamour and excitement.",
+        "bookingInformation": {
+          "contactName": "Oliver Turner",
+          "email": "oliver@example.com",
+          "phone": "+1 (123) 456-7890"
+        },
+        "faq": [
+          {
+            "question": "Is there assigned seating?",
+            "answer": "Premiere tickets come with assigned seating, while general screenings offer first-come, first-served."
+          },
+          {
+            "question": "Can I purchase tickets at the venue?",
+            "answer": "Yes, you can buy tickets at the box office before the event."
+          }
+        ],
+        "relatedServices": ["Catering Services", "Event Photography"],
+        "contactInformation": {
+          "companyName": "Film Magic Productions",
+          "address": "789 Premiere Avenue, Cinemaville, USA",
+          "email": "info@filmmagicproductions.com",
+          "phone": "+1 (678) 901-2345"
+        },
+        "socialMediaLinks": {
+          "facebook": "https://www.facebook.com/filmmagicproductions",
+          "twitter": "https://twitter.com/filmmagicpros",
+          "instagram": "https://www.instagram.com/filmmagicproductions"
+        },
+        "callToAction": "Join us for a night at the movies. Reserve your seats now!"
+  
+    },
+    {
+      "id": 4,
+      "name": "Comedy Shows",
+      "image": "https://i.ibb.co/7bW52Y1/slider4.jpg",
+      "price": "$2500",
+      "description": "Prepare to laugh your heart out with our comedy shows, featuring top comedians and uproarious humor that guarantees an evening filled with joy and amusement.",
+        "serviceName": "Comedy Shows",
+        "detailDescription": "Get ready for an evening of side-splitting laughter with our comedy shows. Our talented comedians will leave you in stitches with their hilarious performances.",
+        "imageGallery": [
+          "image1.jpg",
+          "image2.jpg",
+          "image3.jpg"
+        ],
+        "pricing": {
+          "packages": [
+            {
+              "name": "VIP Comedy Night",
+              "price": "$300",
+              "description": "Exclusive VIP seating, meet-and-greet with comedians, and access to our VIP lounge."
+            },
+            {
+              "name": "General Admission",
+              "price": "$30",
+              "description": "Enjoy the show from regular seating areas."
+            }
+          ],
+          "additionalFees": "Service fees may apply."
+        },
+        "keyFeatures": [
+          "Top stand-up comedians",
+          "Interactive audience participation",
+          "Unforgettable comedy experiences"
+        ],
+        "testimonials": [
+          {
+            "name": "Sarah Brown",
+            "comment": "I laughed so hard; my cheeks hurt for days. A fantastic night of comedy!"
+          },
+          {
+            "name": "David Wilson",
+            "comment": "The comedians were top-notch, and the atmosphere was fantastic!"
+          }
+        ],
+        "availability": "Year-round",
+        "benefits": "Enjoy an evening of non-stop laughter and entertainment. Leave your stress at the door and come ready to have a great time.",
+        "bookingInformation": {
+          "contactName": "Linda Miller",
+          "email": "linda@example.com",
+          "phone": "+1 (123) 456-7890"
+        },
+        "faq": [
+          {
+            "question": "Is there a minimum age for attendees?",
+            "answer": "Recommended for ages 16 and above."
+          },
+          {
+            "question": "Is food available at the venue?",
+            "answer": "Yes, we offer a selection of snacks and beverages."
+          }
+        ],
+        "relatedServices": ["Food and Beverage Catering", "Event Security Services"],
+        "contactInformation": {
+          "companyName": "Event Laughs, Inc.",
+          "address": "456 Laughter Lane, Chuckleville, USA",
+          "email": "info@eventlaughs.com",
+          "phone": "+1 (987) 654-3210"
+        },
+        "socialMediaLinks": {
+          "facebook": "https://www.facebook.com/eventlaughs",
+          "twitter": "https://twitter.com/eventlaughs",
+          "instagram": "https://www.instagram.com/eventlaughs"
+        },
+        "callToAction": "Get ready to laugh your heart out! Book your tickets now for an unforgettable night of comedy!"
+
+    },
+    {
+      "id": 5,
+        "name": "Sports Events",
+        "image": "https://i.ibb.co/PYX71ZR/slider5.jpg",
+        "price": "$8000",
+        "description": "Join the excitement of sports through our meticulously organized events, where competition and camaraderie flourish, providing thrilling experiences for athletes and spectators.",
+          "serviceName": "Sports Events",
+          "detailDescription": "Experience the thrill of sports at our well-organized events. From soccer to basketball, our sports events offer a great time for both athletes and spectators.",
+          "imageGallery": [
+            "image1.jpg",
+            "image2.jpg",
+            "image3.jpg"
+          ],
+          "pricing": {
+            "packages": [
+              {
+                "name": "Athlete Pass",
+                "price": "$500",
+                "description": "Access to participate in your chosen sport, along with athlete amenities."
+              },
+              {
+                "name": "Spectator Pass",
+                "price": "$50",
+                "description": "Enjoy the event as a spectator, with great views of the action."
+              }
+            ],
+            "additionalFees": "Registration fees may apply."
+          },
+          "keyFeatures": [
+            "Diverse sports activities",
+            "Professional athletes and teams",
+            "Engaging competitions"
+          ],
+          "testimonials": [
+            {
+              "name": "Mark Johnson",
+              "comment": "I had a blast participating in the soccer tournament. Well-organized and loads of fun!"
+            },
+            {
+              "name": "Amy Davis",
+              "comment": "The basketball games were intense, and the atmosphere was electric. I'll be back for more!"
+            }
+          ],
+          "availability": "Seasonal events, check the schedule for upcoming sports.",
+          "benefits": "Whether you're a sports enthusiast or just looking for a fun time, our sports events offer a fantastic blend of competition and enjoyment.",
+          "bookingInformation": {
+            "contactName": "Robert Smith",
+            "email": "robert@example.com",
+            "phone": "+1 (123) 456-7890"
+          },
+          "faq": [
+            {
+              "question": "Are team registrations available?",
+              "answer": "Yes, we accept team registrations for group participation."
+            },
+            {
+              "question": "Is there seating for spectators?",
+              "answer": "Yes, we provide seating areas for spectators to enjoy the games."
+            }
+          ],
+          "relatedServices": ["Event Security Services", "Photography and Videography"],
+          "contactInformation": {
+            "companyName": "Sports Pro Events",
+            "address": "789 Sports Avenue, Sportstown, USA",
+            "email": "info@sportproevents.com",
+            "phone": "+1 (987) 654-3210"
+          },
+          "socialMediaLinks": {
+            "facebook": "https://www.facebook.com/sportproevents",
+            "twitter": "https://twitter.com/sportproevents",
+            "instagram": "https://www.instagram.com/sportproevents"
+          },
+          "callToAction": "Get in the game or be a part of the cheering crowd! Reserve your spot for our upcoming sports events!"
+   
+    },
+    {
+      "id": 6,
+        "name": "Magic Show",
+        "image": "https://i.ibb.co/xGyWKyY/slider6.jpg",
+        "price": "$2000",
+        "description": "Experience awe and wonder at our magical events, where magicians and illusionists weave spells that defy belief and captivate audiences with astonishing tricks.",
+          "serviceName": "Magic Show",
+          "detailDescription": "Prepare to be mesmerized by our magical events. Our talented magicians and illusionists will leave you in awe with their astonishing tricks and enchanting performances.",
+          "imageGallery": [
+            "image1.jpg",
+            "image2.jpg",
+            "image3.jpg"
+          ],
+          "pricing": {
+            "packages": [
+              {
+                "name": "Front Row Magic",
+                "price": "$300",
+                "description": "Experience the magic up close with front-row seating and a chance to participate in the acts."
+              },
+              {
+                "name": "Regular Admission",
+                "price": "$30",
+                "description": "Enjoy the magic show from your selected seating area."
+              }
+            ],
+            "additionalFees": "Booking fees may apply."
+          },
+          "keyFeatures": [
+            "Mind-bending illusions",
+            "Audience participation",
+            "Mystical performances"
+          ],
+          "testimonials": [
+            {
+              "name": "Lisa Johnson",
+              "comment": "The magic show was unbelievable! I couldn't figure out how they did those tricks."
+            },
+            {
+              "name": "Michael White",
+              "comment": "I took my kids to the magic show, and they were amazed. It was a great family experience!"
+            }
+          ],
+          "availability": "Magic shows are held regularly throughout the year.",
+          "benefits": "Experience the wonder and mystique of magic with our enchanting events. Prepare to be spellbound by the illusions and tricks.",
+          "bookingInformation": {
+            "contactName": "David Brown",
+            "email": "david@example.com",
+            "phone": "+1 (123) 456-7890"
+          },
+          "faq": [
+            {
+              "question": "Is the magic show suitable for kids?",
+              "answer": "Yes, our magic shows are family-friendly and suitable for all ages."
+            },
+            {
+              "question": "Can I volunteer to participate in the magic tricks?",
+              "answer": "Certainly! Some acts may involve audience participation."
+            }
+          ],
+          "relatedServices": ["Event Photography", "Event Security Services"],
+          "contactInformation": {
+            "companyName": "Magic Mysteries, Inc.",
+            "address": "456 Enchantment Street, Magictown, USA",
+            "email": "info@magicmysteries.com",
+            "phone": "+1 (987) 654-3210"
+          },
+          "socialMediaLinks": {
+            "facebook": "https://www.facebook.com/magicmysteries",
+            "twitter": "https://twitter.com/magicmysteries",
+            "instagram": "https://www.instagram.com/magicmysteries"
+          },
+          "callToAction": "Get ready to be amazed! Book your tickets for a magical experience like no other!"
+    }
+  ]

@@ -1,0 +1,210 @@
+[
+    {
+      "name": "Rooftop Terrace",
+      "location": "Skyline Hotel",
+      "capacity": 150,
+      "description": "A rooftop terrace with panoramic city views, perfect for intimate gatherings and cocktail parties.",
+      "image": "https://i.ibb.co/6s0f79X/v1.jpg",
+      "amenities": ["Outdoor Space", "Bar Services", "Scenic Views"],
+      "contact": {
+        "name": "Sarah Davis",
+        "email": "sarah@example.com",
+        "phone": "+1 (987) 123-4567"
+      }
+    },
+    {
+      "name": "Historic Mansion",
+      "location": "Heritage Estates",
+      "capacity": 300,
+      "description": "A historic mansion with vintage charm, ideal for weddings, galas, and elegant events.",
+      "image": "https://i.ibb.co/z5bFyNW/v2.jpg",
+      "amenities": ["Gardens", "Ballroom", "Catering Services"],
+      "contact": {
+        "name": "Robert Wilson",
+        "email": "robert@example.com",
+        "phone": "+1 (345) 678-9012"
+      }
+    },
+    {
+      "name": "Beachfront Resort",
+      "location": "Tropical Paradise Beach Resort",
+      "capacity": 500,
+      "description": "A beachfront resort with white sands and crystal waters, perfect for destination weddings and beach parties.",
+      "image": "https://i.ibb.co/qpbL6rP/v3.jpg",
+      "amenities": ["Beach Access", "Pool Area", "On-site Accommodations"],
+      "contact": {
+        "name": "Linda Garcia",
+        "email": "linda@example.com",
+        "phone": "+1 (234) 567-8901"
+      }
+    },
+    {
+      "name": "Art Gallery",
+      "location": "Contemporary Art Museum",
+      "capacity": 200,
+      "description": "A contemporary art gallery with a creative atmosphere, great for art exhibitions and cultural events.",
+      "image": "https://i.ibb.co/Rzc7sGC/v4.jpg",
+      "amenities": ["Gallery Space", "Art Lighting", "Event Staff"],
+      "contact": {
+        "name": "Michael Turner",
+        "email": "michael@example.com",
+        "phone": "+1 (678) 901-2345"
+      }
+    },
+    {
+      "name": "Winery and Vineyard",
+      "location": "Vineyard Estates",
+      "capacity": 250,
+      "description": "A picturesque winery and vineyard, ideal for wine tastings, weddings, and outdoor events.",
+      "image": "https://i.ibb.co/QdZMnvg/v5.jpg",
+      "amenities": ["Wine Tasting", "Outdoor Pavilion", "Catering Services"],
+      "contact": {
+        "name": "Julia Smith",
+        "email": "julia@example.com",
+        "phone": "+1 (123) 456-7890"
+      }
+    },
+    {
+      "name": "City Park Pavilion",
+      "location": "Central City Park",
+      "capacity": 1000,
+      "description": "A spacious pavilion nestled in the heart of a city park, perfect for community gatherings, picnics, and outdoor events.",
+      "image": "https://i.ibb.co/fXtqrRF/v6.jpg",
+      "amenities": ["Picnic Area", "Playground", "Ample Parking"],
+      "contact": {
+        "name": "Daniel Lee",
+        "email": "daniel@example.com",
+        "phone": "+1 (987) 654-3210"
+      }
+    },
+    {
+      "name": "Industrial Warehouse",
+      "location": "Art District Warehouse",
+      "capacity": 400,
+      "description": "A trendy industrial warehouse space for creative events, pop-up markets, and urban gatherings.",
+      "image": "https://i.ibb.co/bs3gWQ4/v7.jpg",
+      "amenities": ["Open Space", "High Ceilings", "Industrial Aesthetic"],
+      "contact": {
+        "name": "Sophie Miller",
+        "email": "sophie@example.com",
+        "phone": "+1 (555) 123-4567"
+      }
+    },
+    {
+      "name": "Country Club",
+      "location": "Lakeside Country Club",
+      "capacity": 300,
+      "description": "A lakeside country club with golf course views, suitable for upscale social events, weddings, and corporate retreats.",
+      "image": "https://i.ibb.co/hZDSWrQ/v8.jpg",
+      "amenities": ["Golf Course", "Banquet Hall", "Outdoor Patio"],
+      "contact": {
+        "name": "William White",
+        "email": "william@example.com",
+        "phone": "+1 (234) 567-8901"
+      }
+    },
+    {
+      "name": "Grand Ballroom",
+      "location": "Downtown Convention Center",
+      "capacity": 1000,
+      "description": "Elegant and spacious ballroom in the heart of the city, perfect for weddings and large corporate events.",
+      "image": "https://i.ibb.co/4T0HSBR/v9.jpg",
+      "amenities": ["Stage", "Sound System", "Catering Services"],
+      "contact": {
+        "name": "John Smith",
+        "email": "john@example.com",
+        "phone": "+1 (123) 456-7890"
+      }
+    },
+    {
+      "name": "Garden Pavilion",
+      "location": "Riverside Gardens",
+      "capacity": 250,
+      "description": "A scenic outdoor pavilion surrounded by lush gardens, ideal for outdoor weddings and receptions.",
+      "image": "https://i.ibb.co/M2GJFDv/v10.jpg",
+      "amenities": ["Outdoor Space", "Dance Floor", "Catering Services"],
+      "contact": {
+        "name": "Emily Johnson",
+        "email": "emily@example.com",
+        "phone": "+1 (987) 654-3210"
+      }
+    },
+    {
+        "name": "Theater Royale",
+        "location": "City Arts Center",
+        "capacity": 500,
+        "description": "A modern theater with state-of-the-art audiovisual equipment, suitable for conferences and live performances.",
+        "image": "https://i.ibb.co/4ZVdQy7/v11.jpg",
+        "amenities": ["Stage", "Projection Screen", "Dressing Rooms"],
+        "contact": {
+          "name": "David Brown",
+          "email": "david@example.com",
+          "phone": "+1 (555) 123-4567"
+        }
+      },
+      {
+        "name": "Rustic Barn",
+        "location": "Sunset Farms",
+        "capacity": 150,
+        "description": "A charming rustic barn in a picturesque countryside setting, perfect for rustic weddings and country-themed events.",
+        "image": "https://i.ibb.co/NmhSxPt/v12.jpg",
+        "amenities": ["Barn Space", "Outdoor Ceremony Area", "Scenic Views"],
+        "contact": {
+          "name": "Olivia Wilson",
+          "email": "olivia@example.com",
+          "phone": "+1 (345) 678-9012"
+        }
+      },
+      {
+        "name": "Tech Innovation Center",
+        "location": "InnovateTech Hub",
+        "capacity": 200,
+        "description": "A state-of-the-art tech innovation center for tech conferences, product launches, and workshops.",
+        "image": "https://i.ibb.co/QQYmgQr/v13.jpg",
+        "amenities": ["Conference Rooms", "Tech Equipment", "Catering Services"],
+        "contact": {
+          "name": "Benjamin Davis",
+          "email": "benjamin@example.com",
+          "phone": "+1 (234) 567-8901"
+        }
+      },
+      {
+        "name": "Mountain Lodge",
+        "location": "Alpine Lodge Resort",
+        "capacity": 300,
+        "description": "A mountain lodge with stunning alpine views, perfect for mountain retreats, weddings, and outdoor events.",
+        "image": "https://i.ibb.co/fvpM0xx/v14.webp",
+        "amenities": ["Mountain Views", "Banquet Hall", "Outdoor Patio"],
+        "contact": {
+          "name": "Grace Martinez",
+          "email": "grace@example.com",
+          "phone": "+1 (678) 901-2345"
+        }
+      },
+      {
+        "name": "Urban Rooftop Bar",
+        "location": "Metropolis Skyline Bar",
+        "capacity": 100,
+        "description": "A chic rooftop bar with city skyline views, ideal for rooftop parties, cocktail events, and social gatherings.",
+        "image": "https://i.ibb.co/KK0YvwS/v15.jpg",
+        "amenities": ["Rooftop Bar", "City Views", "Catering Services"],
+        "contact": {
+          "name": "Lucas Scott",
+          "email": "lucas@example.com",
+          "phone": "+1 (123) 456-7890"
+        }
+      },
+      {
+        "name": "Historical Courtyard",
+        "location": "Heritage Courtyard",
+        "capacity": 250,
+        "description": "A historical courtyard with old-world charm, perfect for vintage-themed weddings, cultural events, and outdoor gatherings.",
+        "image": "https://i.ibb.co/cXBTFzy/v16.jpg",
+        "amenities": ["Courtyard Space", "Gardens", "Historical Architecture"],
+        "contact": {
+          "name": "Isabella Turner",
+          "email": "isabella@example.com",
+          "phone": "+1 (987) 654-3210"
+        }
+      }
+  ]

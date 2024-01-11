@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Charlie Puth Live in Dhaka",
+    "date": "TBD (Trust me bro)",
+    "location": "CUB Rooftop",
+    "description": "You just want attention, you don't want my heart, Maybe you just hate the thought of me with someone new, Yeah, you just want attention, I knew from the start, You're just making sure I'm never gettin' over you",
+    "image": "https://i.ibb.co/MVwd0KZ/download.jpg"
+  },
+  {
+    "name": "Let's Vibe Dhaka With Anuv Jain",
+    "date": "12-06-2023",
+    "location": "ICCB Hall",
+    "description": "Toote Makan, Ik Baar Gir Kar Waise Bante Kahan Hai, Jaise The Tune Apne Dil Se Banaye, O Karigar YunHathon Se The Sajaye",
+    "image": "https://i.ibb.co/nzd0X4M/lead.jpg"
+  },
+      {
+        "name": "Summer Music Festival",
+        "date": "2023-07-15",
+        "location": "Central Park, New York",
+        "description": "Join us for a weekend of live music in the heart of New York City's Central Park. Top artists and a festive atmosphere await!",
+        "image": "https://i.ibb.co/M5NXLsG/event1.jpg"
+      },
+      {
+        "name": "Shakespeare in the Park",
+        "date": "2023-08-08",
+        "location": "Delacorte Theater, New York",
+        "description": "Experience Shakespeare's timeless classics under the stars at the renowned Delacorte Theater in Central Park.",
+        "image": "https://i.ibb.co/hdjkBxp/event2.jpg"
+      },
+      {
+        "name": "International Film Festival",
+        "date": "2023-09-20",
+        "location": "Cannes, France",
+        "description": "Explore a world of cinema at the Cannes International Film Festival, featuring a lineup of international films and premieres.",
+        "image": "https://i.ibb.co/VWBfVGr/event3.jpg"
+      },
+      {
+        "name": "Stand-Up Comedy Night",
+        "date": "2023-07-25",
+        "location": "Laugh Factory, Los Angeles",
+        "description": "Get ready to laugh the night away with some of the funniest comedians in the industry at the Laugh Factory.",
+        "image": "https://i.ibb.co/sCwwgFV/event4.jpg"
+      },
+      {
+        "name": "World Cup Soccer Match",
+        "date": "2023-06-30",
+        "location": "Maracanã, Rio de Janeiro",
+        "description": "Don't miss the epic showdown between two soccer giants at the legendary Maracanã Stadium in Rio de Janeiro.",
+        "image": "https://i.ibb.co/vvVqVQz/event5.jpg"
+      },
+      {
+        "name": "Magic Extravaganza",
+        "date": "2023-08-10",
+        "location": "Magic Palace, Las Vegas",
+        "description": "Be amazed by an evening of enchanting magic tricks, illusions, and mind-boggling feats at the Magic Palace.",
+        "image": "https://i.ibb.co/zrYB8wk/event6.jpg"
+      },
+      {
+        "name": "Corporate Leadership Summit",
+        "date": "2023-09-15",
+        "location": "Long Island, New York",
+        "description": "Join industry leaders and visionaries at the Corporate Leadership Summit to explore the future of business and leadership.",
+        "image": "https://i.ibb.co/X7HHs4y/event7.jpg"
+      }
+    ]
